@@ -26,8 +26,6 @@ ss://3b613082-99bb-4b24-a042-2b768be4e1d0@power.teampluss.ir:80?path=%2FPak91jqn
 ss://3b613082-99bb-4b24-a042-2b768be4e1d0@power.teampluss.ir:80?path=%2FPak91jqn-Mehskl.ir.shop.com%3Fed%3D2048&security=none&encryption=none&host=Zilor.ir&type=ws#%40configfree_1
 ss://3eff762e-ff75-4669-a4b3-50ff92a611ac@Subfourteen.iranfreedomserver.com:7005?security=reality&encryption=none&pbk=VkxXfuqbYbk_b_KzkphMsR4apMZXAcfnWKAErqyghlY&headerType=none&fp=chrome&type=tcp&sni=refersion.com#%F0%9F%9F%A1%20Telegram%3D%20%40Vless_config
 ss://3f1ef613-588d-4584-b0d2-1099b1d08bc3@irp3.cactustory.site:443?path=%2F&security=tls&encryption=none&host=ir3.cactustory.site&type=ws&sni=ir3.cactustory.site#%F0%9F%9F%A1%20Telegram%3D%20%40Vless_config
-ss://45f45d44-adb4-4c25-a11d-42f8e945f8c5@151.101.3.8:80?path=%2F&security=none&encryption=none&host=befreewithus.net&type=ws#%40configfree_1
-ss://45f45d44-adb4-4c25-a11d-42f8e945f8c5@151.101.3.8:80?path=%2F&security=none&encryption=none&host=befreewithus.net&type=ws#Telegram+%3A+%40Mrsoulb+%F0%9F%8F%B3%F0%9F%8F%B3
 ss://47b20c2b-3bba-4008-8594-8e3fb0694a78@hub2.g-movies.ir:80?mode=stream-up&path=%2F&security=none&encryption=none&host=as3your-name.global.ssl.fastly.net&type=xhttp#%F0%9F%9F%A1%20Telegram%3D%20%40Vless_config
 ss://497798a0-5661-ae2c-226a-19ae60d21269@lavin2.stevejobs-net.com:39044?security=none&encryption=none&host=speedtest.com&headerType=http&type=tcp#%F0%9F%9F%A1%20Telegram%3D%20%40Vless_config
 ss://4cfe8850-87e1-432f-8258-8de2d951e933@Ps.fast.hosting-ip.com:80?mode=auto&path=%2Fed%3F%3D2048&security=none&encryption=none&host=Frzdyour-name.global.ssl.fastly.net&type=xhttp#%F0%9F%9F%A1%20Telegram%3D%20%40Vless_config
@@ -35,7 +33,7 @@ ss://4eb30208-ae4f-4706-baab-15c685ff7689@wifi6.iampr0.com:800?security=none&enc
 ss://500af27a-e34c-419b-989a-6240f7f394e0@all2.golnar-clod.ir:8880?path=%2F%3Fed%3D80&security=none&encryption=none&host=top.golnar-clod.ir&type=httpupgrade#%F0%9F%9F%A1%20Telegram%3D%20%40Vless_config
 ss://5011a449-a2f9-4a98-a0da-7ef0d927e3d2@50.7.87.86:443?path=%2Fhajmi%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=nb-fi.nitter.ir&fp=chrome&type=ws&sni=nitter.ir#%F0%9F%9F%A1%20Telegram%3D%20%40Vless_config
 ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=redfree8mahsang6.redfree8.ir&type=ws#Telegram+%3A+%40Mrsoulb+%F0%9F%8F%B3%F0%9F%8F%B3
-ss://5858042f-26b7-49db-9dbd-db1efd159a3f@151.101.3.8:80?path=%2F%40SvnProBot%3Fed%3D2560&security=none&encryption=none&host=Aeza.net&type=ws#%40configfree_1
+ss://5459f68e-d914-4b31-93a3-ecdf638b7a5b@172.66.132.44:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=abcd.taraneh.dpdns.org&fp=random&type=ws&sni=abcd.taraneh.dpdns.org#ping%20120
 ss://59decaef-d2ad-4391-b18b-c480e968f35f@fs.piche.pw:80?mode=auto&path=%2F%40PishiNetVPN&security=none&encryption=none&host=pishinet-SOFT.global.ssl.fastly.net&type=xhttp#%F0%9F%9F%A1%20Telegram%3D%20%40Vless_config
 ss://600eae54-5014-40a2-99f3-215ff340c26d@test.yoyohihi.com:57107?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%9F%A1%20Telegram%3D%20%40Vless_config
 ss://6406bd60-ec87-4ae4-bb95-938bf4e9486c@xpnteam-change-addrees.sedanor.ir:80?path=%2FFastlyxpn%3Fed%3D2048&security=none&encryption=none&host=Kwisjs.org&type=ws#%F0%9F%9F%A1%20Telegram%3D%20%40Vless_config
@@ -89,7 +87,6 @@ ss://a6d81882-5ec9-4134-a955-cbcf2f0a0976@viusr.atashsite.ir:9076?security=reali
 ss://a9f40576-6321-491f-bb4a-7d8a762eea27@vip.mosen1server.ir:80?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%9F%A1%20Telegram%3D%20%40Vless_config
 ss://a9f40576-6321-491f-bb4a-7d8a762eea27@vip.mosen1server.ir:80?security=none&encryption=none&headerType=none&type=tcp#Telegram+%3A+%40Mrsoulb+%F0%9F%8F%B3%F0%9F%8F%B3
 ss://ac04c88d-8af0-4662-b98f-645dcbdda2d6@Sv6.tsteam6.top:443?mode=gun&security=reality&alpn=http%2F1.1&encryption=none&pbk=JrJx95LInFp805udRHXknX3_eCO8W5wnDY2LPxy_iXo&fp=chrome&type=grpc&serviceName=TelegramChannel-%40vipnman&sni=www.speedtest.net&sid=edbe#%F0%9F%9F%A1%20Telegram%3D%20%40Vless_config
-ss://b60ca649-7b11-43b1-b9e7-99eba427b266@151.101.3.8:80?path=%2Fdownload%3Fed%3D2560&security=none&encryption=none&host=melovy.ir&type=ws#Telegram+%3A+%40Mrsoulb+%F0%9F%8F%B3%F0%9F%8F%B3
 ss://b756b31f-b4ee-42f6-ae40-a6bf9e30f42c@k1.fast.hosting-ip.com:80?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&host=k2one.com&type=xhttp#%DA%A9%D8%A7%D9%86%D9%81%D9%86%DB%8C%DA%AF%20%D9%85%D8%AA%D8%B5%D9%84
 ss://bc334ccc-9b51-40ba-9515-994ed7eea4a5@104.18.26.90:443?path=%2Fadmin&security=tls&encryption=none&host=2free2.aparatir.xyz&fp=randomized&type=ws&sni=2free2.aparatir.xyz#target%20for%20kill%3A%20zohreh
 ss://c1073a91-6d6c-4cf6-ad95-6675a20db527@Arx.fast.hosting-ip.com:80?mode=auto&path=%2Fed%3F%3D2048&security=none&encryption=none&host=Farzaddyour-name.global.ssl.fastly.net&type=xhttp#%F0%9F%9F%A1%20Telegram%3D%20%40Vless_config
@@ -134,8 +131,6 @@ vless://3b613082-99bb-4b24-a042-2b768be4e1d0@power.teampluss.ir:80?path=%2FPak91
 vless://3b613082-99bb-4b24-a042-2b768be4e1d0@power.teampluss.ir:80?path=%2FPak91jqn-Mehskl.ir.shop.com%3Fed%3D2048&security=none&encryption=none&host=Zilor.ir&type=ws#%40configfree_1
 vless://3eff762e-ff75-4669-a4b3-50ff92a611ac@Subfourteen.iranfreedomserver.com:7005?security=reality&encryption=none&pbk=VkxXfuqbYbk_b_KzkphMsR4apMZXAcfnWKAErqyghlY&headerType=none&fp=chrome&type=tcp&sni=refersion.com#%F0%9F%9F%A1%20Telegram%3D%20%40Vless_config
 vless://3f1ef613-588d-4584-b0d2-1099b1d08bc3@irp3.cactustory.site:443?path=%2F&security=tls&encryption=none&host=ir3.cactustory.site&type=ws&sni=ir3.cactustory.site#%F0%9F%9F%A1%20Telegram%3D%20%40Vless_config
-vless://45f45d44-adb4-4c25-a11d-42f8e945f8c5@151.101.3.8:80?path=%2F&security=none&encryption=none&host=befreewithus.net&type=ws#%40configfree_1
-vless://45f45d44-adb4-4c25-a11d-42f8e945f8c5@151.101.3.8:80?path=%2F&security=none&encryption=none&host=befreewithus.net&type=ws#Telegram+%3A+%40Mrsoulb+%F0%9F%8F%B3%F0%9F%8F%B3
 vless://47b20c2b-3bba-4008-8594-8e3fb0694a78@hub2.g-movies.ir:80?mode=stream-up&path=%2F&security=none&encryption=none&host=as3your-name.global.ssl.fastly.net&type=xhttp#%F0%9F%9F%A1%20Telegram%3D%20%40Vless_config
 vless://497798a0-5661-ae2c-226a-19ae60d21269@lavin2.stevejobs-net.com:39044?security=none&encryption=none&host=speedtest.com&headerType=http&type=tcp#%F0%9F%9F%A1%20Telegram%3D%20%40Vless_config
 vless://4cfe8850-87e1-432f-8258-8de2d951e933@Ps.fast.hosting-ip.com:80?mode=auto&path=%2Fed%3F%3D2048&security=none&encryption=none&host=Frzdyour-name.global.ssl.fastly.net&type=xhttp#%F0%9F%9F%A1%20Telegram%3D%20%40Vless_config
@@ -143,7 +138,7 @@ vless://4eb30208-ae4f-4706-baab-15c685ff7689@wifi6.iampr0.com:800?security=none&
 vless://500af27a-e34c-419b-989a-6240f7f394e0@all2.golnar-clod.ir:8880?path=%2F%3Fed%3D80&security=none&encryption=none&host=top.golnar-clod.ir&type=httpupgrade#%F0%9F%9F%A1%20Telegram%3D%20%40Vless_config
 vless://5011a449-a2f9-4a98-a0da-7ef0d927e3d2@50.7.87.86:443?path=%2Fhajmi%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=nb-fi.nitter.ir&fp=chrome&type=ws&sni=nitter.ir#%F0%9F%9F%A1%20Telegram%3D%20%40Vless_config
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=redfree8mahsang6.redfree8.ir&type=ws#Telegram+%3A+%40Mrsoulb+%F0%9F%8F%B3%F0%9F%8F%B3
-vless://5858042f-26b7-49db-9dbd-db1efd159a3f@151.101.3.8:80?path=%2F%40SvnProBot%3Fed%3D2560&security=none&encryption=none&host=Aeza.net&type=ws#%40configfree_1
+vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@172.66.132.44:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=abcd.taraneh.dpdns.org&fp=random&type=ws&sni=abcd.taraneh.dpdns.org#ping%20120
 vless://59decaef-d2ad-4391-b18b-c480e968f35f@fs.piche.pw:80?mode=auto&path=%2F%40PishiNetVPN&security=none&encryption=none&host=pishinet-SOFT.global.ssl.fastly.net&type=xhttp#%F0%9F%9F%A1%20Telegram%3D%20%40Vless_config
 vless://600eae54-5014-40a2-99f3-215ff340c26d@test.yoyohihi.com:57107?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%9F%A1%20Telegram%3D%20%40Vless_config
 vless://6406bd60-ec87-4ae4-bb95-938bf4e9486c@xpnteam-change-addrees.sedanor.ir:80?path=%2FFastlyxpn%3Fed%3D2048&security=none&encryption=none&host=Kwisjs.org&type=ws#%F0%9F%9F%A1%20Telegram%3D%20%40Vless_config
@@ -182,7 +177,6 @@ vless://a6d81882-5ec9-4134-a955-cbcf2f0a0976@viusr.atashsite.ir:9076?security=re
 vless://a9f40576-6321-491f-bb4a-7d8a762eea27@vip.mosen1server.ir:80?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%9F%A1%20Telegram%3D%20%40Vless_config
 vless://a9f40576-6321-491f-bb4a-7d8a762eea27@vip.mosen1server.ir:80?security=none&encryption=none&headerType=none&type=tcp#Telegram+%3A+%40Mrsoulb+%F0%9F%8F%B3%F0%9F%8F%B3
 vless://ac04c88d-8af0-4662-b98f-645dcbdda2d6@Sv6.tsteam6.top:443?mode=gun&security=reality&alpn=http%2F1.1&encryption=none&pbk=JrJx95LInFp805udRHXknX3_eCO8W5wnDY2LPxy_iXo&fp=chrome&type=grpc&serviceName=TelegramChannel-%40vipnman&sni=www.speedtest.net&sid=edbe#%F0%9F%9F%A1%20Telegram%3D%20%40Vless_config
-vless://b60ca649-7b11-43b1-b9e7-99eba427b266@151.101.3.8:80?path=%2Fdownload%3Fed%3D2560&security=none&encryption=none&host=melovy.ir&type=ws#Telegram+%3A+%40Mrsoulb+%F0%9F%8F%B3%F0%9F%8F%B3
 vless://b756b31f-b4ee-42f6-ae40-a6bf9e30f42c@k1.fast.hosting-ip.com:80?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&host=k2one.com&type=xhttp#%DA%A9%D8%A7%D9%86%D9%81%D9%86%DB%8C%DA%AF%20%D9%85%D8%AA%D8%B5%D9%84
 vless://bc334ccc-9b51-40ba-9515-994ed7eea4a5@104.18.26.90:443?path=%2Fadmin&security=tls&encryption=none&host=2free2.aparatir.xyz&fp=randomized&type=ws&sni=2free2.aparatir.xyz#target%20for%20kill%3A%20zohreh
 vless://c1073a91-6d6c-4cf6-ad95-6675a20db527@Arx.fast.hosting-ip.com:80?mode=auto&path=%2Fed%3F%3D2048&security=none&encryption=none&host=Farzaddyour-name.global.ssl.fastly.net&type=xhttp#%F0%9F%9F%A1%20Telegram%3D%20%40Vless_config
