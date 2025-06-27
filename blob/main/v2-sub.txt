@@ -102,7 +102,6 @@ vless://25b0f5db-5405-40d7-85eb-663cfa7e918d@104.21.24.172:80?path=%2Fl3y4CZ9KUc
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@172.66.138.81:80?path=%2F%3Fed%3D2560&security=&encryption=none&host=fggerlad.gerald81.dpdns.org&type=ws#channel%20%3A%20%40freedomofinfor%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@172.66.138.81:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=fggerlad.gerald81.dpdns.org&fp=random&type=ws&sni=fggerlad.gerald81.dpdns.org#IR-%40V2ray_Alpha-21
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@172.66.138.81:80?path=Telegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=fggerlad.gerald81.dpdns.org&fp=chrome&type=ws&sni=fggerlad.gerald81.dpdns.org#IR-%40V2ray_Alpha-11
-vless://275c1c05-9b08-499d-94e1-cd51c16adefe@94.182.134.121:2083?security=none&encryption=none&host=iranserver.com&headerType=http&type=tcp#telegram%20%F0%9F%87%AB%F0%9F%87%B7%20%40V2WRAY
 vless://275c1c05-9b08-499d-94e1-cd51c16adefe@94.182.134.121:2083?security=none&encryption=none&host=iranserver.com&headerType=http&type=tcp#telegram%20%F0%9F%87%AB%F0%9F%87%B7%20%40melli_confing
 vless://27cac9d0-e7e8-4928-a160-c6da2bf0d60b@power.teampluss.ir:80?mode=packet-up&path=%2Fcategory%2Fculture.html%3Fed%3D443&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&host=trustgod-top.global.ssl.fastly.net&type=xhttp#%F0%9F%9F%A1%20Telegram%3D%20%40Vless_config
 vless://27d613a0-5136-11f0-8496-1239d0255272@us1.socifiles.com:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=vlgrpc&sni=kul01s11-in-f4.1e100.net#%F0%9F%9F%A1%20Telegram%3D%20%40Vless_config
@@ -715,7 +714,6 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@92.53.189.29:8880?path=%2FTelegram%
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@92.53.189.29:8880?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=none&encryption=none&host=hk.laoyoutiao.link&type=ws&sni=hk.laoyoutiao.link#mahan
 vless://fb0d039c-db10-47ad-80c6-99c83318dfc1@m1.persiangames.online:3074?security=none&encryption=none&host=persiangames.online&headerType=http&type=tcp#Telegram+%3A+%40Mrsoulb+%F0%9F%8F%B3%F0%9F%8F%B3
 vless://fb224824-0cef-4dde-829b-91ee0277bf06@alfa.subscrib.sbs:4246?security=none&encryption=none&host=p30afzar.com&headerType=http&type=tcp#mahan
-vless://fb224824-0cef-4dde-829b-91ee0277bf06@alfa.subscrib.sbs:4246?type=tcp&headerType=http&host=p30afzar.com&security=none#mahan
 vless://fbd60323-bfab-40df-b929-04c2de1f1ac0@speedtest.net:80?path=%2F&security=none&encryption=none&host=befreewithus.net&type=ws#mahan
 vless://fbddfda4-ce1e-4af5-adbd-a70454551a1d@87.236.38.152:58034?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#%F0%9F%9F%A1%20Telegram%3D%20%40Vless_config
 vless://fbddfda4-ce1e-4af5-adbd-a70454551a1d@87.236.38.152:58034?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#mahan
