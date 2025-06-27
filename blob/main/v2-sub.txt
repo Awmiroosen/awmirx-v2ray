@@ -6,6 +6,7 @@ vless://069b511d-3ebc-4b1a-9b57-eb9ece724aa3@pishgam.sdcards.ir:80?path=%2F&secu
 vless://069b511d-3ebc-4b1a-9b57-eb9ece724aa3@pishgam.sdcards.ir:80?path=%2F&security=none&encryption=none&host=amir.pmme.top&type=ws#%F0%9F%9F%A1%20Telegram%3D%20%40Vless_config
 vless://0d1cb112-006f-4eaa-89d1-15da714d12e1@yldl.ir:2096?security=none&type=tcp&headerType=http&path=%2F&host=gharar.ir#%40configfree_1
 vless://1105fbcf-dda4-4bdf-a80b-024d589142bc@nv213.momdping.com:443?path=%2F&security=tls&encryption=none&type=ws&sni=nv213.momdping.com#%F0%9F%9F%A1%20Telegram%3D%20%40Vless_config
+vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.56:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Telegram+%3A+%40Mrsoulb+%F0%9F%8F%B3%F0%9F%8F%B3
 vless://1734035c-6dcc-411a-91e5-0d7786e9093e@local-only.hardwarenew.ir:8081?security=&encryption=none&headerType=none&type=tcp#%40configfree_1
 vless://1c808cce-3f2a-4f4a-b8fe-e99e06e258f4@h1d4.hamrahconf.ir:35487?security=reality&encryption=none&pbk=GGsieU5yiXWsMeO0StA4mTO2s8OLLvt0hUivZJkJG2k&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=0b886008af8942c3#%40configfree_1
 vless://20d72aff-3897-41f7-9dd6-a260435324c8@fn.momasvps.ir:8085?security=reality&encryption=none&pbk=cBiruUOymQvzSQnjAD7aaFXgZ45EDbVAEaxf3zxbg1o&headerType=none&fp=firefox&type=tcp&sni=refersion.com&sid=fd7cbbe42ad29796#%F0%9F%9F%A1%20Telegram%3D%20%40Vless_config
@@ -30,7 +31,6 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=%2FTelegram%4
 vless://5d175721-8bdf-4cd1-81bf-2a3eb3b841e2@pishgam.sdcards.ir:80?path=%2F%3Fed%3D2087&security=none&encryption=none&host=amir.pmme.top&type=ws#%F0%9F%9F%A1%20Telegram%3D%20%40Vless_config
 vless://65da960e-97bd-499c-a79f-69c8c3a6984d@188.212.97.205:2030?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%F0%9F%9F%A1%20Telegram%3D%20%40Vless_config
 vless://758ed714-cac7-4b8c-bcf7-c65383789b60@power.teampluss.ir:80?path=%2Fws%2F%3Fed%3D2048&security=none&encryption=none&host=irangamebaz4.ir&type=ws#%40configfree_1
-vless://758ed714-cac7-4b8c-bcf7-c65383789b60@power.teampluss.ir:80?path=%2Fws%2F%3Fed%3D2048&security=none&encryption=none&host=irangamebaz4.ir&type=ws#%F0%9F%9F%A1%20Telegram%3D%20%40Vless_config
 vless://758ed714-cac7-4b8c-bcf7-c65383789b60@power.teampluss.ir:80?path=%2Fws%2F%3Fed%3D2048&security=none&encryption=none&host=irangamebaz4.ir&type=ws#Telegram+%3A+%40Mrsoulb+%F0%9F%8F%B3%F0%9F%8F%B3
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@www.speedtest.net:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=mail.ski1plag.ir&type=ws#%40configfree_1
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@www.speedtest.net:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=mail.ski1plag.ir&type=ws#%F0%9F%9F%A1%20Telegram%3D%20%40Vless_config
@@ -53,6 +53,7 @@ vless://a85136b1-1a76-481d-aef8-4bdc1f3d4773@tamizokatamizveryclearifiedtamiz.iv
 vless://a9f40576-6321-491f-bb4a-7d8a762eea27@vip.mosen1server.ir:80?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%9F%A1%20Telegram%3D%20%40Vless_config
 vless://a9f40576-6321-491f-bb4a-7d8a762eea27@vip.mosen1server.ir:80?security=none&encryption=none&headerType=none&type=tcp#Telegram+%3A+%40Mrsoulb+%F0%9F%8F%B3%F0%9F%8F%B3
 vless://ac04c88d-8af0-4662-b98f-645dcbdda2d6@Sv6.tsteam6.top:443?mode=gun&security=reality&alpn=http%2F1.1&encryption=none&pbk=JrJx95LInFp805udRHXknX3_eCO8W5wnDY2LPxy_iXo&fp=chrome&type=grpc&serviceName=TelegramChannel-%40vipnman&sni=www.speedtest.net&sid=edbe#%F0%9F%9F%A1%20Telegram%3D%20%40Vless_config
+vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@104.16.0.113:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=barayeiran.nastaranh.dpdns.org&type=ws#Telegram+%3A+%40Mrsoulb+%F0%9F%8F%B3%F0%9F%8F%B3
 vless://c1e2e26f-98e7-43b5-9bf0-ace939ed8ff2@fifa.game2ni.ir:26206?security=reality&encryption=none&pbk=32un-BHwlOjLBwm_5k72oiLG2Q3LcU4SRf1bbfrJoXE&headerType=none&fp=chrome&spx=%2Fdownload&type=tcp&sni=cdn-download1.zula.ir&sid=8574#%F0%9F%9F%A1%20Telegram%3D%20%40Vless_config
 vless://d0565388-f2c6-41d9-b8a6-0966dae32e19@srv6.numberonedrshabi.top:2082?path=%2F&security=none&encryption=none&type=ws#%F0%9F%9F%A1%20Telegram%3D%20%40Vless_config
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.55:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=1750293123492.china.baidu.bilibili.china.aeko.cn&type=ws#Telegram+%3A+%40Mrsoulb+%F0%9F%8F%B3%F0%9F%8F%B3
