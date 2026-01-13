@@ -1,3 +1,1 @@
-vless://10a87eab-af02-4f08-a42a-1c50e0b67296@5.10.249.13:8080?security=none&encryption=none&headerType=none&type=tcp#%40MyPremium98
-vless://6c61c834-6a0d-496f-b239-1b0d365c5de7@zibak.b-cdn.net:80?encryption=none&security=none&type=xhttp&host=zibak.b-cdn.net&path=%2FGaMeOpTiMiZeR%3Fed%3D2048#vmessprotocol
 vless://c8f1d6ea-6cc4-4a30-b08d-3627036f21bf@45.82.136.114:8080?encryption=none&security=none&type=tcp&headerType=none#@EzAccess1
